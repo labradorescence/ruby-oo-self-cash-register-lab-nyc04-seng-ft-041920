@@ -8,7 +8,9 @@ class CashRegister
 
   end
 
-
+   def discount
+     puts 20.00
+   end
 
 
 end
