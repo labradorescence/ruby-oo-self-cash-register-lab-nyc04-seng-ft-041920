@@ -17,7 +17,7 @@ class CashRegister
     self.total -=20
   end
 
-  def 
+  def
 
 
 
