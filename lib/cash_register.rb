@@ -4,12 +4,9 @@ class CashRegister
 
   def initialize
     @total = 0
-
+    discount = 20.00
   end
 
-   def discount
-     puts 20.00
-   end
 
 
 end
