@@ -4,7 +4,11 @@ class CashRegister
 
   def initialize
     @total = 0
-    @empoyee_discount
+
+  end
+
+  def cash_register_with_discount
+    @total = -20
   end
 
 end
