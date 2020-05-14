@@ -8,7 +8,6 @@ class CashRegister
 
   end
 
-  cash_register_with_discount = 20
 
 
 
