@@ -15,13 +15,12 @@ class CashRegister
   end
 
   def apply_discount
-    self.total = @total-20
+  #  self.total = @total-20
   end
 
-  def reduces
-
-  def
-
+  def void_last_transaction
+    @total -= @price
+  end
 
 
 end
