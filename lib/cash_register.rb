@@ -7,6 +7,8 @@ class CashRegister
     @discount = 20.00
   end
 
-
+  def total
+    return total
+  end
 
 end
