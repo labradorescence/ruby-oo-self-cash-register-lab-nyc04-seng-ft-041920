@@ -4,11 +4,11 @@ class CashRegister
 
   def initialize
     @total = 0
-    @discount = 20.00
+    #@discount = 20.00
   end
 
-  def total
-    return total
+  def total(total)
+    @total = total
   end
 
 end
